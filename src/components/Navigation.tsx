@@ -20,7 +20,6 @@ const Navigation = () => {
     { name: 'Experience', href: '#experience' },
     { name: 'Projects', href: '#projects' },
     { name: 'Contact', href: '#contact' },
-    { name: 'Resume', href: 'src/components/resume.pdf' },
   ];
 
   return (
